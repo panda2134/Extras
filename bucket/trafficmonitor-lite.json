@@ -41,6 +41,9 @@
     "checkver": {
         "github": "https://github.com/zhongyang219/TrafficMonitor"
     },
+    "depends": [
+        "vcredist2019"
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
